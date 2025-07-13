@@ -1,4 +1,4 @@
-In this project, I am looking into the **Liar Dataset** from Kaggle to build a fraud detection model. 
+In this project, I am looking into the **Liar Dataset** from Kaggle to build a false statement detection model. 
 
 ## Objective 🎯
 1. Classify political statements as True, Half-True, or False
